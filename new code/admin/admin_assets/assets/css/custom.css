@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.mpanbox{
+	width: 500px;
+	overflow: hidden;
+	font-family: 'Poppins', sans-serif;
+}
+.mpanlabel{
+	width: 70px;
+	overflow: hidden;
+	float: left;
+	line-height: 75px;
+}
+.mpanrgtbox{
+	width: 410px;
+	overflow: hidden;
+	float: right;
+}
+.mpanrgtbox input[type='text']{
+	margin:0px;
+	padding:10px 0px;
+	text-align: center;
+	border:0;
+}
+.mpanrgtbox input:nth-child(1){
+	width: 120px;
+	border:1px solid #ccc;
+	border-bottom: 0px;
+}
+.mpanrgtbox input:nth-child(2){
+	width: 130px;
+	border:1px solid #ccc;
+	border-bottom: 0px;
+	border-left: 0px;
+}
+.mpanrgtbox input:nth-child(3){
+	width: 130px;
+	border:1px solid #ccc;
+	border-bottom: 0px;
+	border-left: 0px;
+}
+.mpanrgtbox input:nth-child(4){
+	width: 79px;
+	border:1px solid #ccc;
+	border-right: 0px;
+}
+.mpanrgtbox input:nth-child(5){
+	width: 100px;
+	border:1px solid #ccc;
+	border-right: 0px;
+}
+.mpanrgtbox input:nth-child(6){
+	width: 100px;
+	border:1px solid #ccc;
+	border-right: 0px;
+}
+.mpanrgtbox input:nth-child(7){
+	width: 100px;
+	border:1px solid #ccc;
+}
